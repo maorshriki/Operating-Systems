@@ -4,7 +4,7 @@ Files with the specific extension will be copied to a specified directory.
 
 <h4>Usage of the main method from command line goes as follows:</h4>
 
-> java DiskSearcher <boolean of milestoneQueueFlag> <file-extension> <root directory> <destination directory> <# of searchers> <# of copiers><br> 
+> java DiskSearcher boolean of milestoneQueueFlag , file-extension ,  root directory , destination directory, number of searchers , number of copiers<br><br> 
 > java DiskSearcher true txt C:\RootDir C:\DestDir 10 5
 
 
